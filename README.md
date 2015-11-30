@@ -1,3 +1,3 @@
 # selflearn
-* It's my learning process
-* The machine Learning
+* I am now learning about the machine learning in Coursera, I will put all my homework in this place
+
